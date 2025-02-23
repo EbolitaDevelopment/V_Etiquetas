@@ -34,7 +34,6 @@ function validar(form) {
         deporte = null;
         edad = null;
         nombre = null;
-        alert(sexo+deporte+edad+nombre);
         return false;
     }
 
