@@ -36,7 +36,8 @@ function validar(form) {
         nombre = null;
         return false;
     }
-
+    console.log("Todo correcto");
+    alert("Formulario enviado correctamente.");
     // Si todo es válido
     return true;
 }
